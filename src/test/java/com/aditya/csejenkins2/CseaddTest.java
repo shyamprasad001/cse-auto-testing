@@ -38,7 +38,7 @@ class CseaddTest {
 	@Test
 	void csetest2() {
 		int result = c.mul(2,3);
-		assertEquals(6, result);
+		assertEquals(5, result);
 	}
 
 }
